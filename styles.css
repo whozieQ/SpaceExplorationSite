@@ -1,8 +1,17 @@
 body{
     color:white;
     background-image: url("images/universe.jpg");
-    background-size: 50% auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
 }
 /* Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/outer-space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
 /* Photo by <a href="https://unsplash.com/@shotbycerqueira?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shot by Cerqueira</a> on <a href="https://unsplash.com/s/photos/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
-  
+.btn-apply{
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(20, 20, 20);
+    background-color: white;
+    border: none;
+}  
