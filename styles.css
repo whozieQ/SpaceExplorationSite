@@ -9,8 +9,9 @@ body{
     background-repeat: no-repeat;
     text-align: center;
     font-family: 'Zen Dots', cursive;
+}
+h1{
     margin-top: 50px;
-
 }
 /* Photo by <a href="https://unsplash.com/@shotbycerqueira?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shot by Cerqueira</a> on <a href="https://unsplash.com/s/photos/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
 .btn-apply{
