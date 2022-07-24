@@ -1,3 +1,7 @@
+@font-face {
+    font-family: StarTrek;
+    src: url("Startrekfuture.ttf");
+}
 body{
     color:white;
     background-image: url("images/universe.jpg");
@@ -5,13 +9,13 @@ body{
     background-repeat: no-repeat;
     text-align: center;
     font-family: 'Zen Dots', cursive;
+    margin-top: 50px;
 
 }
 /* Photo by <a href="https://unsplash.com/@shotbycerqueira?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shot by Cerqueira</a> on <a href="https://unsplash.com/s/photos/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
 .btn-apply{
     padding: 10px 20px;
-    font-family: inherit;
-    font-weight: bold;
+    font-family: StarTrek;
     font-size: 20px;
     background-color: white;
     border: none;
