@@ -2,6 +2,15 @@
     font-family: SpaceFont;
     src: url("FastHand.ttf");
 }
+:root{
+    /* CSS HEX Palette colors*/
+    --pink-lace: #FED3FFff;
+    --purple: #620FC3ff;
+    --russian-violet: #2A0056ff;
+    --purple-x-11: #AF16F0ff;
+    --xiketic: #0C0410ff;
+    }
+    
 body{
     color:white;
     background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif");
