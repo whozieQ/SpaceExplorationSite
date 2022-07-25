@@ -4,15 +4,15 @@
 }
 :root{
     /* CSS HEX Palette colors*/
-    --pink-lace: #FED3FFff;
+    --light-text: rgb(150, 116, 150);
     --purple: #620FC3ff;
-    --russian-violet: #2A0056ff;
+    --dark-text: #2A0056ff;
     --purple-x-11: #AF16F0ff;
     --xiketic: #0C0410ff;
     }
     
 body{
-    color:white;
+
     background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif");
     background-size: cover;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ h1{
     margin-bottom: 25px;
     font-family: SpaceFont;
     letter-spacing: 9px;
-    border-bottom: ;
+    color: var(--light-text);
 }
 .btn-apply{
     padding: 8px 19px;
@@ -33,6 +33,7 @@ h1{
     background-color: white;
     border: none;
     border-radius: 10px;
+    color: var(--dark-text);
 }  
 
 .underline{
