@@ -37,6 +37,7 @@ h1{
     border: none;
     border-radius: 10px;
     color: var(--dark-text);
+    margin-bottom: 50px;
 }  
 
 .underline{
