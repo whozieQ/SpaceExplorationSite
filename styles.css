@@ -21,3 +21,7 @@ h1{
     background-color: white;
     border: none;
 }  
+
+.underline{
+    text-decoration: underline;
+}
