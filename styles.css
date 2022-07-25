@@ -25,3 +25,7 @@ h1{
 .underline{
     text-decoration: underline;
 }
+
+#mainlogo{
+    width: 200px;
+}
