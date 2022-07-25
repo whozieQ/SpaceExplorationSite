@@ -10,14 +10,17 @@
     --purple-x-11: #AF16F0ff;
     --xiketic: #0C0410ff;
     }
-    
+  
 body{
-
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    margin: 0;
+}
+#hero{
+    padding: 10px 0 30px 0;
     background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif");
     background-size: cover;
     background-repeat: no-repeat;
-    text-align: center;
-    font-family: 'Zen Dots', cursive;
 }
 h1{
     margin-top: 50px;
