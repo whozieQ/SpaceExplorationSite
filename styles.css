@@ -28,6 +28,7 @@ h1{
     font-family: SpaceFont;
     letter-spacing: 9px;
     color: var(--light-text);
+    text-shadow: 5px -5px 5px var(--xiketic);
 }
 .btn-apply{
     padding: 8px 19px;
